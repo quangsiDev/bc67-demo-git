@@ -19,7 +19,7 @@ git push -u origin master ( lần đầu tiên ) / git push ( lần thứ 2 tr�
 
 
 
-tạo nhánh, chuyển nhánh : commit trước khi tao tác
+tạo nhánh, chuyển nhánh : add , commit trước khi tao tác
 
 
 
