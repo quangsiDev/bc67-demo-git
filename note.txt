@@ -26,3 +26,15 @@ tạo nhánh, chuyển nhánh : add , commit trước khi tao tác
 git checkout -b tenNhanhMoi : tạo nhánh mới
 gir branch : hiển thị nhánh hiện tại
 git checkout tenNhanhCanChuyen : chuyển sang nhánh khác
+
+
+
+Đem code từ nhánh login về master => đứng tại master : git merge login
+
+
+
+conflict code ~ xung đột ~ khi trên cùng 1 nhánh, có 1 file, 1 dòng nào đó  có 2 đoạn code khác nhau
+
+th1: giữ code mình, xoá code đồng nghiệp
+th2: xoá code mình, giữ code đồng nghiệp
+th3: giữ lại code cả 2
